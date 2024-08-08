@@ -1,3 +1,0 @@
-# OpenGL
-
-Start typing here...

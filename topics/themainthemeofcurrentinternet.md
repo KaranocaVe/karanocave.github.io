@@ -1,3 +1,0 @@
-# 偏执充斥着当下的互联网
-
-Start typing here...
