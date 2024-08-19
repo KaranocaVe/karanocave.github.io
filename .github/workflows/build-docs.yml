@@ -8,11 +8,11 @@ on:
 permissions:
   id-token: write
   pages: write
-  contents: read
+  contents: write
 
 env:
   INSTANCE: 'src/github'
-  ARTIFACT: 'webHelpHI2-all.zip'
+  ARTIFACT: 'webHelpGITHUB2-all.zip'
   DOCKER_VERSION: '241.18775'
 
 jobs:
