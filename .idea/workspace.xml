@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68562a54-9521-4151-8f14-23118e6f2cdd" name="更改" comment="更改">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-docs.yml" afterDir="false" />
-    </list>
+    <list default="true" id="68562a54-9521-4151-8f14-23118e6f2cdd" name="更改" comment="更改" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +38,33 @@
                   <option name="darkRed" value="231" />
                   <option name="green" value="126" />
                   <option name="red" value="231" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/github.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="2" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="225" />
+                  <option name="darkBlue" value="225" />
+                  <option name="darkGreen" value="149" />
+                  <option name="darkRed" value="56" />
+                  <option name="green" value="149" />
+                  <option name="red" value="56" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="234" />
+                  <option name="darkBlue" value="234" />
+                  <option name="darkGreen" value="197" />
+                  <option name="darkRed" value="81" />
+                  <option name="green" value="197" />
+                  <option name="red" value="81" />
                 </RgbState>
               </option>
             </ColorState>
