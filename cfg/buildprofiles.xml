@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <header-logo>icon.png</header-logo>
+        <product-web-url>https://karanocave.info</product-web-url>
+        <custom-favicons>icon.png</custom-favicons>
+        <primary-color>Deep-ocean</primary-color>
+    </variables>
+    <build-profile instance="github">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+        <footer>
+            <copyright>KaranocaVe 2023-2024</copyright>
+        </footer>
+    </build-profile>
+
+</buildprofiles>

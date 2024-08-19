@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="github" name="KaranocaVe's Blog"
+                  start-page="indexer.md">
+
+    <toc-element topic="indexer.md"/>
+    <toc-element topic="worldview.md">
+        <toc-element topic="Dart.md">
+            <toc-element topic="hint.md"/>
+        </toc-element>
+        <toc-element topic="Data-Structures-and-Algorithms.md">
+            <toc-element topic="Sartaj-Sahni-数据结构、算法与应用-C-语言描述.md"/>
+        </toc-element>
+        <toc-element topic="The-Cpp-Programing-Language.md">
+            <toc-element topic="速查表.md"/>
+            <toc-element topic="hints.md"/>
+        </toc-element>
+        <toc-element topic="OpenGL.md">
+            <toc-element topic="在Windows上快速部署一个OpenGL开发环境.md"/>
+        </toc-element>
+        <toc-element topic="The-Philosophy.md">
+            <toc-element topic="《善的脆弱性》.md"/>
+            <toc-element topic="《存在与虚无》导读.md"/>
+            <toc-element topic="The-world-is-a-haystack.md"/>
+            <toc-element topic="themainthemeofcurrentinternet.md"/>
+        </toc-element>
+        <toc-element topic="The-C-Programing-Language.md">
+            <toc-element topic="cessential.md"/>
+            <toc-element topic="concept.md"/>
+            <toc-element topic="thecpuzzlebook.md"/>
+            <toc-element topic="深入理解scanf.md"/>
+        </toc-element>
+        <toc-element topic="The-Math.md">
+            <toc-element topic="mathanalyze.md">
+                <toc-element topic="DANDW.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="methodology.md">
+    </toc-element>
+    <toc-element topic="problems.md">
+        <toc-element topic="fuckconst.md"/>
+        <toc-element topic="ClionChineseError.md"/>
+        <toc-element topic="cantfindscanf.md">
+        </toc-element>
+    </toc-element>
+    <toc-element topic="works.md"/>
+    <toc-element topic="艺术人生.md">
+        <toc-element topic="列表.md"/>
+        <toc-element topic="reading.md">
+            <toc-element topic="shortnovel.md">
+                <toc-element topic="goldrose.md"/>
+            </toc-element>
+            <toc-element topic="B076KVMFB4.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="妙妙工具箱.md">
+        <toc-element topic="构建未打包的winui3程序.md"/>
+        <toc-element topic="Ubuntu设置中文环境.md"/>
+        <toc-element topic="clash规则附加.md"/>
+        <toc-element topic="运筹学Matlab脚本.md"/>
+    </toc-element>
+</instance-profile>
