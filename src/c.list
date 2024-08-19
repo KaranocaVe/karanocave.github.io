@@ -3,5 +3,5 @@
 <categories>
     <category id="related" name="延伸阅读" order="1"/>
     <category id="external" name="外部资源" order="2"/>
-    <category id="recommend" name="也许你会感兴趣" order="2"/>
+    <category id="recommend" name="也许你会感兴趣" order="3"/>
 </categories>

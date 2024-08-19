@@ -1,3 +1,0 @@
-# Clion Chinese error
-
-Start typing here...
