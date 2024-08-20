@@ -49,14 +49,11 @@
     <toc-element topic="works.md"/>
     <toc-element topic="艺术人生.md">
         <toc-element topic="列表.md"/>
-        <toc-element topic="reading.md">
-            <toc-element topic="shortnovel.md">
-                <toc-element topic="goldrose.md"/>
-            </toc-element>
-            <toc-element topic="【罗翔】美是一种客观的事实，还是一种主观的感受？.md"/>
-            <toc-element topic="B076KVMFB4.md"/>
-        </toc-element>
+        <toc-element topic="【罗翔】美是一种客观的事实，还是一种主观的感受？.md"/>
+        <toc-element topic="B076KVMFB4.md"/>
+        <toc-element topic="goldrose.md"/>
     </toc-element>
+    <toc-element topic="王强，北大演讲《读书毁了我》.md"/>
     <toc-element topic="妙妙工具箱.md">
         <toc-element topic="常用的Windows修复指令.md"/>
         <toc-element topic="构建未打包的winui3程序.md"/>
