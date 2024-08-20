@@ -55,6 +55,7 @@
     </toc-element>
     <toc-element topic="王强，北大演讲《读书毁了我》.md"/>
     <toc-element topic="妙妙工具箱.md">
+        <toc-element topic="cmake大杂烩.md"/>
         <toc-element topic="常用的Windows修复指令.md"/>
         <toc-element topic="构建未打包的winui3程序.md"/>
         <toc-element topic="Ubuntu设置中文环境.md"/>
