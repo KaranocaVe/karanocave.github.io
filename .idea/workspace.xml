@@ -95,7 +95,7 @@
 }</component>
   <component name="RunManager">
     <configuration name="Web Archive (github)" type="StardustRunConfiguration" factoryName="save-as-zip">
-      <option name="folderPath" value="$PROJECT_DIR$/../../../GitHub/karanocave.github.io" />
+      <option name="folderPath" value="$USER_HOME$/GitHub/karanocave.github.io" />
       <option name="instanceId" value="github" />
       <option name="instanceName" value="KaranocaVe's Blog" />
       <method v="2" />

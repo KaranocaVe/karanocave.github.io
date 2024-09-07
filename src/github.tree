@@ -7,6 +7,9 @@
 
     <toc-element topic="indexer.md"/>
     <toc-element topic="worldview.md">
+        <toc-element topic="Go.md">
+            <toc-element topic="精翻《Go-编程语言：为什么所有类-C-语言都很糟糕，除了它》.md"/>
+        </toc-element>
         <toc-element topic="JavaScript.md">
             <toc-element topic="hintjs.md"/>
         </toc-element>
