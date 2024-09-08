@@ -61,6 +61,7 @@
         <toc-element topic="goldrose.md"/>
     </toc-element>
     <toc-element topic="妙妙工具箱.md">
+        <toc-element topic="清除git所有历史.md"/>
         <toc-element topic="cmake大杂烩.md"/>
         <toc-element topic="常用的Windows修复指令.md"/>
         <toc-element topic="构建未打包的winui3程序.md"/>

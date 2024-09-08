@@ -84,22 +84,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Writerside.Web Archive (github).executor": "Run",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/karan/Documents/Git/karanocave.github.io",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Writerside.Web Archive (github).executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karan/Documents/Git/karanocave.github.io&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
-      "C:/Users/karan/Documents/Git/karanocave.github.io/src/topics/Go.md",
-      "C:/Users/karan/Documents/Git/karanocave.github.io/src/topics/works.md",
-      "C:/Users/karan/Documents/Git/karanocave.github.io/src/topics/精翻《Go-编程语言：为什么所有类-C-语言都很糟糕，除了它》.md"
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
+      &quot;C:/Users/karan/Documents/Git/karanocave.github.io/src/topics/Go.md&quot;,
+      &quot;C:/Users/karan/Documents/Git/karanocave.github.io/src/topics/works.md&quot;,
+      &quot;C:/Users/karan/Documents/Git/karanocave.github.io/src/topics/精翻《Go-编程语言：为什么所有类-C-语言都很糟糕，除了它》.md&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Web Archive (github)" type="StardustRunConfiguration" factoryName="save-as-zip">
       <option name="folderPath" value="$USER_HOME$/GitHub/karanocave.github.io" />
